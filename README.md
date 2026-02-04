@@ -54,7 +54,7 @@ To reproduce this analysis:
     ```
 3.  **Run the Notebook:**
     ```bash
-    jupyter notebook notebooks/analysis_and_Modeling.ipynb
+    jupyter notebook notebooks/analysis_and_modelling.ipynb
     ```
 
 **Dependencies:**
