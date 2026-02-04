@@ -61,3 +61,5 @@ To reproduce this analysis:
 * `pandas` (Data Manipulation)
 * `seaborn` & `matplotlib` (Visualization)
 * `scikit-learn` (K-Means Clustering)
+* <img width="1000" height="600" alt="pnl_analysis" src="https://github.com/user-attachments/assets/23210878-9fdb-4004-bab6-f83c5eb13a85" />
+
